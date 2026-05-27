@@ -26,8 +26,6 @@ I'm a passionate **Java Full Stack Developer** with a strong foundation in build
 - 💡 Write clean, maintainable code following SOLID principles
 
 🌐 **Beyond Code:**
-- 📚 Sharing knowledge on **Medium** and **YouTube**
-- 📸 Connecting with tech community on **Instagram**
 - 🎓 Continuously learning emerging technologies
 - 🤝 Open to collaborations and innovative projects
 
